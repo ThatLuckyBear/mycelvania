@@ -21,9 +21,16 @@ Tank begins with a blaster and 10 health that can be optionally powered up. To p
  
 ## Bonus powerups
 Health upgrades  
-Power Upgrades   
+Power Upgrades
 Cosmetic upgrades  
+#### bonus considerations
+I like the powerup/soul gathering from Castlevania Dawn of Sorrow and also the weapon systems so I'd like to consider this.
+Cave story has the "float gun" which was really cool and fun should/can I do something similar?
 
 ## Shortcuts
-Exploration is rewarded with bonuses lore, and easter eggs. 
+Exploration is rewarded with bonuses lore, and easter eggs.   
 To reduce tedium shortcut/fast travel becomes available after stage 3 (lake) is completed
+
+## Map
+[Map Spreadsheet](https://docs.google.com/spreadsheets/d/1JpOJWPKX2DJZIuJuFJCngbJOFRgO24jViC-eYjxTDHQ/edit?usp=sharing)
+Map should circle back on itself from later areas to allow more exploration of areas once new unlocks are available
