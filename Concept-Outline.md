@@ -6,7 +6,7 @@ A mushroom piloting a mech suit finds its way through a mazelike world to reconn
 Game follows fairly standard metroidvania format with vehicle powerups like Blaster Master
 
 ## Progression + Stages ideas
-I think 4 or 5 powerups would be ideal to keep the length reasonable each powerup should be related to the needs of a particular area 
+Tank begins with a blaster and 10 health that can be optionally powered up. To progress the player must find the area boss and defeat it netting a new power up that allows progress to the next area.
 - Forest Outside Laboratory - zipline
   - Exiting the lab you end up in a forest and getting across the gap to the next area requires zipline powerup
 - Lake
@@ -19,7 +19,11 @@ I think 4 or 5 powerups would be ideal to keep the length reasonable each poweru
 - Revisit Forest to reaccess the lab (final area) with new abilities
   - Beat the area and complete the game
  
-## Bonuses
+## Bonus powerups
 Health upgrades  
 Power Upgrades   
 Cosmetic upgrades  
+
+## Shortcuts
+Exploration is rewarded with bonuses lore, and easter eggs. 
+To reduce tedium shortcut/fast travel becomes available after stage 3 (lake) is completed
